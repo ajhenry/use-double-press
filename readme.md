@@ -2,6 +2,8 @@
 
 A react native hook for enabling _both_ single and double press in native `Pressable` and `Touchable` components
 
+[NPM](https://www.npmjs.com/package/use-double-press)
+
 ## Install
 
 ```sh
