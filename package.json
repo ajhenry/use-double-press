@@ -1,0 +1,17 @@
+{
+  "name": "use-double-press",
+  "version": "1.0.0",
+  "description": "A react native hook for enabling double press in the native Touchable & Pressable components",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "react native",
+    "hook",
+    "double press"
+  ],
+  "author": "Andrew Henry <andrew.henry@pitt.edu>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
